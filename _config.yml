@@ -3,10 +3,9 @@ title: Spenglerei Alber Mirco
 email: j@tschoell.com
 description: > # this means to ignore newlines until "baseurl:"
   Spenglerei Alber Mirco
-  Wichtige
-  Information
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+  Ihr kompetenter Ansprechpartner vor Ort
+baseurl: "stylish-portfolio-jekyll/" # the subpath of your site, e.g. /blog/
+url: "https://rasimriver.github.io/" # the base hostname & protocol for your site
 
 # User setting
 owner: Alber Mirco
@@ -18,8 +17,8 @@ address:
   - line: Weingartweg 2
   - line: 39015 St.Leonhard i.P.
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: 347 007 5959
+copyright: CC BY 4.0 [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 # API settings
 google_api_key: AIzaSyCISFU97SQrAlTclish1CjPS5wn_v_mbrM 
