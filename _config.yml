@@ -18,7 +18,8 @@ address:
   - line: 39015 St.Leonhard i.P.
   # Feel free to add more lines here 
 telephone: 347 007 5959
-copyright: CC BY 4.0 [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+copyright: <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY 4.0</a>
+
 
 # API settings
 google_api_key: AIzaSyCISFU97SQrAlTclish1CjPS5wn_v_mbrM 
