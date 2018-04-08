@@ -1,6 +1,6 @@
 # Site settings
 title: Spenglerei Alber Mirco
-email: j@tschoell.com
+email: info@spenglerei-alber.com
 description: > # this means to ignore newlines until "baseurl:"
   Spenglerei Alber Mirco
   Ihr kompetenter Ansprechpartner vor Ort
@@ -9,7 +9,7 @@ url: "https://rasimriver.github.io/" # the base hostname & protocol for your sit
 
 # User setting
 owner: Alber Mirco
-email: j@tschoell.com
+email: info@spenglerei-alber.com
 facebook_username:
 twitter_username:
 github_username:
