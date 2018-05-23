@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2>Wir unterstützen Sie bei allen Anliegen rund ums Dach</h2>
-        <p class="lead">und das bereits seit 1962!</p>
+        <p class="lead">und das bereits seit {{ site.time | date: '%Y' | minus: 1962 }} Jahren! </p>
 	<p> 
 		<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#Geschichte" aria-expanded="false" aria-controls="Geschichte">
         	Zur Geschichte
