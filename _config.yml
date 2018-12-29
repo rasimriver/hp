@@ -1,6 +1,7 @@
 # Site settings
 title: Spenglerei Alber Mirco
 email: info@spenglerei-alber.com
+pecmail: test@test.test
 description: > # this means to ignore newlines until "baseurl:"
   Spenglerei Alber Mirco
   Ihr kompetenter Ansprechpartner vor Ort
@@ -10,15 +11,13 @@ url: "https://www.spenglerei-alber.com/" # the base hostname & protocol for your
 # User setting
 owner: Alber Mirco
 email: info@spenglerei-alber.com
-facebook_username:
-twitter_username:
-github_username:
 address:
   - line: Weingartweg 2
   - line: 39015 St.Leonhard i.P.
   # Feel free to add more lines here 
 telephone: 347 007 5959
 copyright: <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY 4.0</a>
+mwstr: 000 000
 
 
 # API settings
