@@ -1,7 +1,7 @@
 # Site settings
 title: Spenglerei Alber Mirco
 email: info@spenglerei-alber.com
-pecmail: test@test.test
+pecmail: spenglerei.alber@pec.rolmail.net
 description: > # this means to ignore newlines until "baseurl:"
   Spenglerei Alber Mirco
   Ihr kompetenter Ansprechpartner vor Ort
@@ -17,7 +17,8 @@ address:
   # Feel free to add more lines here 
 telephone: 347 007 5959
 copyright: <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY 4.0</a>
-mwstr: 000 000
+mwstr: 02385660218
+strnr: LBR MRC 84H17 F132C
 
 
 # API settings
